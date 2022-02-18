@@ -1,0 +1,44 @@
+Libra R-CNN: Towards Balanced Learning for Object Detection.
+Feature Selective Anchor-Free Module for Single-Shot Object Detection.
+Bottom-Up Object Detection by Grouping Extreme and Center Points.
+Unsupervised Moving Object Detection via Contextual Information Separation.
+GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving.
+Deep Fitting Degree Scoring Network for Monocular 3D Object Detection.
+Salient Object Detection With Pyramid Attention and Salient Edges.
+Attentive Feedback Network for Boundary-Aware Salient Object Detection.
+C-MIL: Continuation Multiple Instance Learning for Weakly Supervised Object Detection.
+Fully Quantized Network for Object Detection.
+Learning RoI Transformer for Oriented Object Detection in Aerial Images.
+Bounding Box Regression With Uncertainty for Accurate Object Detection.
+Activity Driven Weakly Supervised Object Detection.
+Cascaded Partial Decoder for Fast and Accurate Salient Object Detection.
+A Simple Pooling-Based Design for Real-Time Salient Object Detection.
+Contrast Prior and Fluid Pyramid Integration for RGBD Salient Object Detection.
+Multi-Task Self-Supervised Object Detection via Recycling of Bounding Box Annotations.
+Towards Accurate One-Stage Object Detection With AP-Loss.
+RepMet: Representative-Based Metric Learning for Classification and Few-Shot Object Detection.
+An Iterative and Cooperative Top-Down and Bottom-Up Inference Network for Salient Object Detection.
+CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection.
+Reasoning-RCNN: Unifying Adaptive Global Reasoning Into Large-Scale Object Detection.
+Sampling Techniques for Large-Scale Object Detection From Sparsely Annotated Objects.
+Strong-Weak Distribution Alignment for Adaptive Object Detection.
+NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection.
+Moving Object Detection Under Discontinuous Change in Illumination Using Tensor Low-Rank and Invariant Sparse Decomposition.
+Towards Universal Object Detection by Domain Attention.
+Multi-Task Multi-Sensor Fusion for 3D Object Detection.
+Exploring the Bounds of the Utility of Context for Object Detection.
+BASNet: Boundary-Aware Salient Object Detection.
+What Object Should I Use? - Task Driven Object Detection.
+Triangulation Learning Network: From Monocular to Stereo 3D Object Detection.
+Stereo R-CNN Based 3D Object Detection for Autonomous Driving.
+A Mutual Learning Method for Salient Object Detection With Intertwined Multi-Supervision.
+Pseudo-LiDAR From Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving.
+Shifting More Attention to Video Salient Object Detection.
+Spatial-Aware Graph Relation Network for Large-Scale Object Detection.
+You Reap What You Sow: Using Videos to Generate High Precision Object Proposals for Weakly-Supervised Object Detection.
+Dissimilarity Coefficient Based Weakly Supervised Object Detection.
+Object Detection With Location-Aware Deformable Convolution and Backward Attention Filtering.
+Monocular 3D Object Detection Leveraging Accurate Proposals and Shape Reconstruction.
+Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection.
+PointPillars: Fast Encoders for Object Detection From Point Clouds.
+论文数量是:,43
